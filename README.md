@@ -1,5 +1,5 @@
-# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
+
+Ex No: 06     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
@@ -7,6 +7,12 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+CIRCUIT DIAGRAM:
+
+![WhatsApp Image 2024-11-19 at 18 19 04_cbd5d658](https://github.com/user-attachments/assets/9cfc8b17-e568-491b-a7e4-907355dfcfca)
+
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -96,13 +102,15 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![WhatsApp Image 2024-11-18 at 17 30 17_0f74e507](https://github.com/user-attachments/assets/66736a10-70e6-4974-ad74-02a942df5507)
+![WhatsApp Image 2024-11-18 at 17 30 27_e491aaa3](https://github.com/user-attachments/assets/be7e7851-1dbd-4da4-92d4-7ffad18fdc03)
+
 
 
 
 For Transient Analysis Settings and Output
 
-![WhatsApp Image 2024-11-18 at 17 30 27_e491aaa3](https://github.com/user-attachments/assets/be7e7851-1dbd-4da4-92d4-7ffad18fdc03)
+![image](https://github.com/user-attachments/assets/91c899dc-77f5-4ebb-9738-85ccb495ecbf)
+
 
 
 ![WhatsApp Image 2024-11-18 at 17 30 41_be8f4f3d](https://github.com/user-attachments/assets/1dbbd373-67b4-4040-af5d-979428cf9cef)
@@ -111,4 +119,5 @@ For Transient Analysis Settings and Output
   
 
 Results:
+
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
